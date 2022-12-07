@@ -1,4 +1,4 @@
-# Cuộc thi Sáng tạo phần mềm 2022
+# Bài tập nhóm môn: Công nghệ phần mềmmềm
 
 ---
 
@@ -9,8 +9,8 @@
 ## Tác giả
 
 - 2011401 - Trần Bảo Lâm - CTK44PM
-- 2014478 - Nguyễn Xuân Phát CTK44PM
-- 2012394 - Nguyễn Quang Vũ - CTK44PM
+- 2014478 - Nguyễn Xuân Phát - CTK44PM
+- 2014508 - Nguyễn Trường Vũ - CTK44PM
 
 ---
 
@@ -78,25 +78,3 @@
   Tài khoản: <b>admin</b>
 
   Mật khẩu: <b>dluconfession@2022!</b>
-
----
-
-## Tài khoản Gmail
-
-- Email để gửi mã OTP xác nhận đổi mật khẩu:
-
-  Email: <b>noreply.email.dluconfession@gmail.com</b>
-
-  Mật khẩu: <b>dlu@2022!</b>
-
-- Email để liên lạc:
-
-  Email: <b>contact.email.dluconfession@gmail.com</b>
-
-  Mật khẩu: <b>dluconfession@2022!</b>
-
----
-
-## Video demo sản phẩm
-
-Link Google Drive video demo sản phẩm: https://drive.google.com/drive/folders/1UHjtTA7Bd6CyCScVjmV9S_Tmi-py09Tk?usp=sharing
