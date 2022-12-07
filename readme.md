@@ -1,4 +1,4 @@
-# Bài tập nhóm môn: Công nghệ phần mềmmềm
+# Bài tập nhóm môn: Công nghệ phần mềm
 
 ---
 
